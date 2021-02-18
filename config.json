@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "project": "Pandas v PowerQuery (demo)"
+  },
+  "folders": {
+    "report": "reports",
+    "sql": "sql",
+    "input": "inputs",
+    "output": "outputs"
+  },
+  "variables": {
+    "schema": ""
+  }
+}
